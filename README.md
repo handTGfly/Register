@@ -1,1 +1,10 @@
-# Register
+提示：
+这是java实现的四位验证码的注册登录代码<br>
+java文件就是放在java的包下<br>
+xml是自动生成到layout下<br>
+code文件是四位验证码<br>
+DBOpenHelper是数据库<br>
+loginActivity是登录<br>
+MainActivity是注册登录后的测试页面<br>
+RegisterActivity是注册<br>
+User是声明的实体类
